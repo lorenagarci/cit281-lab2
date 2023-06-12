@@ -1,4 +1,5 @@
-# cit281-lab2
+# Lab 2
+<p style="background-color: #ff9966">
 In this lab, we were introduced to working with and using Git. 
 <img src="git.png" alt="Image">
 
